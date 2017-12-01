@@ -1,0 +1,27 @@
+#buttonContainer {
+	height: 20%;
+}
+
+#buttonOne {
+	background-color: red;
+	font-size: 24px;
+	border-radius: 8px;
+}
+
+#buttonTwo {
+	background-color: blue;
+	font-size: 24px;
+	border-radius: 8px;
+}
+
+#buttonThree {
+	background-color: orange;
+	font-size: 24px;
+	border-radius: 8px;
+}
+
+#buttonFour {
+	background-color: yellow;
+	font-size: 24px;
+	border-radius: 8px;
+}
